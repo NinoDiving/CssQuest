@@ -39,6 +39,10 @@ article {
   height: 70%;
 }
 
+article h1 {
+  text-shadow: 4px 3px 6px rgba(66, 68, 90, 1);
+}
+
 article p {
   font-weight: 500;
   margin-top: 2rem;
